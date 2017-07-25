@@ -320,7 +320,11 @@ public class Client {
 
 		System.out.println("Completed playing");
 
+<<<<<<< HEAD
 		cl.socket.close(); 
+=======
+		cl.socket.close();
+>>>>>>> 1ef33136a3dbab7d4d28131e681b1cc2d9fdf6ab
 
 	}
 
